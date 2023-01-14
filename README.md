@@ -1,3 +1,4 @@
+[demo.pptx](https://github.com/johnxx11/Minesweeper-GUI/files/10418931/demo.pptx)
 # csc-335-minesweeper-csc335-jingyu-yanxu-qi-zhenyi
 csc-335-minesweeper-csc335-jingyu-yanxu-qi-zhenyi created by GitHub Classroom
 
