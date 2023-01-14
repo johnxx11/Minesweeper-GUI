@@ -1,3 +1,4 @@
+<img width="770" alt="demo" src="https://user-images.githubusercontent.com/44317586/212499205-71a9553a-55b8-4885-9300-d259d6acc78c.png">
 [demo.pptx](https://github.com/johnxx11/Minesweeper-GUI/files/10418931/demo.pptx)
 # csc-335-minesweeper-csc335-jingyu-yanxu-qi-zhenyi
 csc-335-minesweeper-csc335-jingyu-yanxu-qi-zhenyi created by GitHub Classroom
